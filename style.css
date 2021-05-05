@@ -1,0 +1,11 @@
+*{
+    border:2px solid black;
+}
+
+
+.header{
+    border:2px solid red;
+    background-color: royalblue;
+    display:flex;
+    justify-content: space-around;
+}
